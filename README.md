@@ -3,8 +3,11 @@
 # How to Run a Custom Test Statement ? 
 
 1)In the given github link open the natural_language_processing.ipynb file in a Jupyter Notebook Environment
+
 2)Download the SectionsCopy.csv file and paste it in the same directory as of the NoteBook
+
 3)Paste your test FIR statement as a “t” variable in the 7th cell and run all the Cells
+
 You can see the predicted outputs at the end of the Code..
 
 # Working of the Machine Learning Model :
